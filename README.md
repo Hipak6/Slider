@@ -1,2 +1,2 @@
-Preview Project Slider 
+ Project Preview Slider 
 https://htmlpreview.github.io/?https://github.com/Hipak6/Slider/blob/main/index.html
